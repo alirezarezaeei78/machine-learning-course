@@ -209,5 +209,4 @@ This course repository is open-source and available under the MIT License. You a
 📞 Contact
 If you have questions or need assistance, you can reach out to the course instructor:
 
-Instructor: Dr. Aliyari
 Email: alireza78@email.kntu.ac.ir
