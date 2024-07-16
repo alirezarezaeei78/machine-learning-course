@@ -61,7 +61,10 @@ pip install -r requirements.txt
 Start Jupyter Notebook to access the project's notebooks:
 
 ```bash
-jupyter notebook Soal1.ipynb
+jupyter notebook MLproject_partOne.ipynb
+```
+```bash
+jupyter notebook MLproject_partTwo.ipynb
 ```
 
 ## Datasets
