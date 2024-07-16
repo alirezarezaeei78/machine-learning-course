@@ -150,8 +150,8 @@ Mini Project 3 focuses on Support Vector Machines (SVM) and Autoencoder Neural N
 - **Credit Card Fraud Detection Dataset**: [Download Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 #### Notebooks
-- `Soal1.ipynb`
-- `Soal3.ipynb`
+- `MLproject_partOne.ipynb`
+- `MLproject_partTwo.ipynb`
 
 ---
 
