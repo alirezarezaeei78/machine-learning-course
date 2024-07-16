@@ -46,8 +46,8 @@ Mini Project 1 is an integral part of the Machine Learning Course, offering prac
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/alirezarezaeei78/miniproject1.git
-   cd miniproject1
+   git clone https://github.com/alirezarezaeei78/Mini_project_1.git
+   cd Mini_project_1
    ```
 
 2. **Install Required Packages:**

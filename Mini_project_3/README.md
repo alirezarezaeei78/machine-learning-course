@@ -44,8 +44,8 @@ Mini Project 3 is a comprehensive part of the Machine Learning Course, designed 
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/alirezarezaeei78/miniproject3.git
-cd miniproject3
+git clone https://github.com/alirezarezaeei78/Mini_project_3.git
+cd Mini_project_3
 ```
 
 ### Install Required Packages

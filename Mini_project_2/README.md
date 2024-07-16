@@ -50,8 +50,8 @@ To get started with this project, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/alirezarezaeei78/miniproject2.git
-cd miniproject2
+git clone https://github.com/alirezarezaeei78/Mini_project_2.git
+cd Mini_project_2
 ```
 
 ### Install Required Packages
