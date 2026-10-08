@@ -31,7 +31,7 @@ python -m pip install -r Mini_project_1/requirements.txt
 python -m notebook
 ```
 
-Use a separate environment for each mini-project when dependencies differ. Requirements capture the original experiments; some packages are pinned to older versions.
+Use a separate environment for each mini-project when dependencies differ. Requirements provide starting version ranges; they are not a fully locked reproduction environment.
 
 Before running a notebook:
 
